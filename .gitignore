@@ -1,0 +1,16 @@
+﻿# Visual Studio user specific files
+*.suo
+*.user
+*.usercpack
+*.sln.docstates
+
+# Build folders
+[Bb]in/
+[Oo]bj/
+x64/
+Debug/
+Release/
+
+# Visual Studio cache/logs
+.vs/
+*.log
